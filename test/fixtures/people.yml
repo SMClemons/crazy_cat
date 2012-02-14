@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  level_of_crazy: 1.5
+  sensitivity_to_smell: 1.5
+  age: 1
+  gender: false
+
+two:
+  level_of_crazy: 1.5
+  sensitivity_to_smell: 1.5
+  age: 1
+  gender: false

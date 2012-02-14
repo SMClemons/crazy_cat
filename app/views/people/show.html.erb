@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Level of crazy:</b>
+  <%= @person.level_of_crazy %>
+</p>
+
+<p>
+  <b>Sensitivity to smell:</b>
+  <%= @person.sensitivity_to_smell %>
+</p>
+
+<p>
+  <b>Age:</b>
+  <%= @person.age %>
+</p>
+
+<p>
+  <b>Gender:</b>
+  <%= @person.gender %>
+</p>
+
+
+<%= link_to 'Edit', edit_person_path(@person) %> |
+<%= link_to 'Back', people_path %>

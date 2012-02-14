@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  color: MyString
+  healthy: false
+  age: 1
+  name: MyString
+  person_id: 1
+
+two:
+  color: MyString
+  healthy: false
+  age: 1
+  name: MyString
+  person_id: 1
